@@ -1,0 +1,19 @@
+{
+  "name": "quickcoding",
+  "version": "1.0.0",
+  "description": "Framework for quick start web-coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redboo/quickcoding.git"
+  },
+  "author": "redboo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redboo/quickcoding/issues"
+  },
+  "homepage": "https://github.com/redboo/quickcoding#readme"
+}
